@@ -3,7 +3,7 @@
 ## How to use
 
 ```
-$ nimble build
+$ nimble build -d:release --opt:speed
 $ ./bin/numberplace problem.csv
 ```
 
